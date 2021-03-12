@@ -1,9 +1,9 @@
 # Hello 🤙🏽 Welcome to my profile ✌🏾
-My name is Gabriel Felipe :cowboy_hat_face: 
-I'm Brazilian, studying Higher Education in Information Systems ... 👣
-I am in constant evolution always in search of continuous improvements! 💡 
+<p>My name is Gabriel Felipe :cowboy_hat_face: </p>
+<p>I'm Brazilian, studying Higher Education in Information Systems ... 👣</p>
+<p>I am in constant evolution always in search of continuous improvements! 💡 </p>
 
-I'm passionate about solving problems and learning. always open to new challenges and ready to face changes!! :heavy_check_mark:
+<p>I'm passionate about solving problems and learning. always open to new challenges and ready to face changes!! :heavy_check_mark:</p>
 
 #### 🙏🏽 Buscando novas soluções para antigos problemas! 🤜🏽
 * 📍 From RJ living in Caxias

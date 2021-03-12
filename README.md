@@ -3,7 +3,7 @@
 <p>I'm Brazilian, studying Higher Education in Information Systems ... 👣</p>
 <p>I am in constant evolution always in search of continuous improvements! 💡 </p>
 
-<p>I'm passionate about solving problems and learning. always open to new challenges and ready to face changes!! :heavy_check_mark:</p>
+<p>I am passionate about solving problems and learning. always looking for new challenges and ready to face the changes! :heavy_check_mark:</p>
 
 #### 🙏🏽 Buscando novas soluções para antigos problemas! 🤜🏽
 * 📍 From RJ living in Caxias
